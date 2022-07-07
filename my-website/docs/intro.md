@@ -6,6 +6,9 @@ sidebar_position: 1
 
 Let's discover **Docusaurus in less than 5 minutes**.
 
+## Introduction
+This website contains our documentation.
+
 ## Getting Started
 
 Get started by **creating a new site**.
